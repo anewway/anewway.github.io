@@ -9,7 +9,7 @@ categories: jekyll update
 ## 說明
 如果想在現有圖片加上其他背景色，除了新增一個 `div` 元素覆蓋在原本的圖片以外，還可以使用 CSS `linear-gradient` 同時將圖片與背景設定完成。
 
-## 程式碼：[線上範例](https://codepen.io/anewway/pen/vYPZPvN)
+## 程式碼：[線上範例](https://codepen.io/anewway/pen/vYPZPvN){:target="_blank"}
 
 HTML
 ```html
