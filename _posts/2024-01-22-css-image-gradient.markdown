@@ -2,7 +2,7 @@
 layout: post
 title:  "CSS 使用 linear-gradient 幫圖片加上漸層背景"
 date:   2024-01-22 19:53:04 +0800
-categories: jekyll update
+categories: css
 ---
 
 

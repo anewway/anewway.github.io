@@ -2,7 +2,7 @@
 layout: post
 title:  "LeetCode 88. Merge Sorted Array"
 date:   2024-01-10 19:53:04 +0800
-categories: jekyll update
+categories: leetcode
 ---
 
 # 題目：[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
