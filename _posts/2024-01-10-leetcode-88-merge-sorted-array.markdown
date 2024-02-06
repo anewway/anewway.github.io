@@ -7,19 +7,15 @@ categories: leetcode
 
 # 題目：[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
 
-## 類型
-Top Interview 150
-
 ## 難度
 Easy
 
 ## 簡述
 給定兩組陣列，將第二組陣列加到第一組陣列中，並從小到大排序。
-
-## 解法
 移除第一組陣列中佔位用的數字，加入第二組陣列的數字，把所有數字重新排序。
 
-TypeScript 程式碼：
+## 程式碼
+TypeScript：
 ```typescript
 function merge(nums1: number[], m: number, nums2: number[], n: number): void {
     for(let i = nums1.length; i >= 0; i--) {
